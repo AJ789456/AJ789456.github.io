@@ -2,11 +2,14 @@ body {
     background-color: #212224;
 }
 h1 {
+    font-family: verdana;
     color: white;
 }
 p {
+    font-family: verdana;
     color: white;
 }
 a {
     color: white;
+    text-decoration: none;
 }
