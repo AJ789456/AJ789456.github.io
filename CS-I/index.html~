@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      h1 {text-align: center;}
+    </style>
+    <meta charset="UTF-8">
+    <title>CS I</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div style="background-color:#2E3033;color:lightblue;padding:20px;font-size:110%;font-family:verdana;"> <a href="../index.html" style="color:lightblue"> Avanish - Digital Portfolio </a> &nbsp; &nbsp; <a href="../about.html">  About Me  </a> &nbsp; &nbsp; <a href="../whyPortfolio.html">  Why a Portfolio?  </a> &nbsp; &nbsp; <a href="../classes.html">  Classes  </a></div>
+    <h1>Computer Science I</h1>
+    <p style="font-size:130%">Assignments:</p>
+    <p><a href="isp10.html">10th grade ISP</a></p>
+  </body>
+</html>
+
