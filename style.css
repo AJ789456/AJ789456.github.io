@@ -9,7 +9,11 @@ p {
     font-family: verdana;
     color: white;
 }
-a {
+a{
     color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: gray;
     text-decoration: none;
 }
