@@ -8,6 +8,8 @@ h1 {
 p {
     font-family: verdana;
     color: white;
+    line-height: 1.5;
+    margin-right: 50%;
 }
 a{
     color: white;

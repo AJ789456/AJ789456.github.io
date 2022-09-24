@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div style="background-color:#2E3033;color:lightblue;padding:20px;font-size:110%;font-family:verdana;"> <a href="index.html" style="color:lightblue"> Avanish - Digital Portfolio </a> &nbsp; &nbsp; <a href="about.html">  About Me  </a> &nbsp; &nbsp; <a href="whyPortfolio.html">  Why a Portfolio?  </a> &nbsp; &nbsp; <a href="classes.html">  Classes  </a></div>
+    <h1>About Me</h1>
+    <p style="margin-right:50%;">Hi! My name is Avanish. I'm currently a high school junior. I have a passion for new technology and cars. I plan to major in mechanical engineering, but I'm not a hundred percent sure I will. I am a part of the Allen robotics team, so I do have some experience with engineering. I usually enjoy programming, but not when I don't have freedom to choose what I want to make. The one sport that I play is badminton. I don't really have a regular passtime; I just like to read/research about the lastest cars and technology. I was born in New Jersey, but I moved to Texas in 2015. Some of my current goals are getting an internshi (hopefully at NASA) and getting in to the University of Texas at Austin. I am not allowed to provide anymore information because this is a public website.</p> 
+  </body>  
+</html>
