@@ -12,10 +12,10 @@ p {
     margin-right: 50%;
 }
 a{
-    color: white;
+    color: skyblue;
     text-decoration: none;
 }
 a:hover{
     color: gray;
-    text-decoration: none;
+    text-decoration: underline;
 }
